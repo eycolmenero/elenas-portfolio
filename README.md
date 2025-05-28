@@ -1,4 +1,3 @@
-# semester-1
 #Project 1: Google
 **Summary**: This is a number-guessing game that lets users guess the computer's chosen number. 
 **Key Features**: 
@@ -23,4 +22,12 @@
 **Summary**: The user plays the game against the computer.  
 **Key Features**: 
 - It tracks wins, losses, and ties. 
-- It tells the user what the computer chose to ease any thought of cheating. 
+- It tells the user what the computer chose to ease any thought of cheating.
+#Project 6: 
+**Summary**: 
+**Key Features**: 
+-
+#Project 7:
+**Summary**: 
+**Key Features**: 
+-
