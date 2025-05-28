@@ -23,10 +23,11 @@
 **Key Features**: 
 - It tracks wins, losses, and ties. 
 - It tells the user what the computer chose to ease any thought of cheating.
-#Project 6: 
-**Summary**: 
+#Project 6: Tetris Analyzer
+**Summary**: This program allows users to learn about current top Tetris scores, add their own, and see how they compare to the top ones. 
 **Key Features**: 
--
+- It allows users to insert their own score, if it is within the top scores.
+- The goal of my program was to be as user friendly as possible, so it has a lot of features while at the same time 
 #Project 7:
 **Summary**: 
 **Key Features**: 
