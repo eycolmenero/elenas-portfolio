@@ -28,7 +28,8 @@
 **Key Features**: 
 - It allows users to insert their own score, if it is within the top scores.
 - The goal of my program was to be as user friendly as possible, so it has a lot of features while at the same time 
-#Project 7:
-**Summary**: 
+#Project 7: Random Image Generator
+**Summary**: This program randomly generates a Batman movie out of 5 possible choices!
 **Key Features**: 
--
+- Once a movie has been randomly selected, it displays an image and description of the movie
+- The movies chosen have a combination of animated and live action movies!
